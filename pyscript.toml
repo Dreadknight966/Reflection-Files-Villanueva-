@@ -1,0 +1,3 @@
+[tool.pyscript]
+name = "Reflection"
+main = "./main.py"
